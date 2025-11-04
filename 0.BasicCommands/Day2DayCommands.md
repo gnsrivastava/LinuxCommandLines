@@ -16,7 +16,8 @@
       - ```ls -ltrh``` can be useful when you want to see which is the **most recent** file that you as a user have created and what are the details of that file.<br>
 
    **b) List the files based on their file size**
-     ```bash
+
+   ```bash
      ls -lhS
-     ```
+   ```
      - The above commands lists all the files in a folder after sorting them by their size in discending order from ```Largest``` to ```Smallest``` files. 
