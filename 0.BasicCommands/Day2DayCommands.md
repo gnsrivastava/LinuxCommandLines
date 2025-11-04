@@ -18,6 +18,6 @@
    **b) List the files based on their file size**
 
    ```bash
-     ls -lhS
+   ls -lhS
    ```
      - The above commands lists all the files in a folder after sorting them by their size in discending order from ```Largest``` to ```Smallest``` files. 
