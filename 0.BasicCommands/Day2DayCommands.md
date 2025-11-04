@@ -1,6 +1,6 @@
 # Common commands used by any linux user daily
 
-1. **List (ls)**<br>
+1. **List [```ls``` ]**<br>
    Users can run this command by typing ```ls``` in their terminal.<br>
    List command (```ls```) is used to list all elements (files or folders) in a directory (folder).
    ```bash
